@@ -16,7 +16,7 @@ print "TERMINAL:Teminal Linux"
 print "SEKOLAH:Nurul huda"
 print ""
 a = raw_input('Target IP :')
-b = raw_input('Target PORT')
+b = raw_input('Target PORT :')
 for Dos in range(1001):
  time.sleep(0.1)
  print Dos,"attacking to",a,"PORT",b
